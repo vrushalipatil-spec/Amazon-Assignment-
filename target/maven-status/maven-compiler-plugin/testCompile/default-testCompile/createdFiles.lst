@@ -1,0 +1,3 @@
+com/assignment/tests/BaseTest.class
+com/assignment/tests/NonLoginTests.class
+com/assignment/tests/LoginRequiredTests.class
